@@ -1,3 +1,6 @@
+//Copyright (c) 2016 Gumpanat Keardkeawfa
+//Licensed under the MIT license
+
 ﻿using UnityEngine;
 using System.Collections;
 
